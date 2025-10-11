@@ -53,6 +53,3 @@ I’ve successfully passed assessments in **Prompt & Context Engineering** and a
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Psqasim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
