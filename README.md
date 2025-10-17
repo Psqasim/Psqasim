@@ -6,7 +6,7 @@ Frontend Developer | Python | Agentic AI & OpenAI SDK Enthusiast | Prompt & Cont
 
 ---
 
-## About Me
+
 
 I’m a dedicated **Frontend Developer** with expertise in **Next.js, TypeScript, Tailwind CSS, and Python**. I build responsive, scalable web applications while expanding my focus into **AI-driven technologies**, **Agentic AI**, and **OpenAI SDK**.
 
