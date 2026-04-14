@@ -31,15 +31,19 @@ When I'm not coding, you'll find me optimizing cloud costs (free tiers are an ar
 <table>
   <tr>
     <td align="center"><b>🥇 Hackathon 0</b></td>
-    <td><b>Personal AI Employee</b>   Platinum Tier<br/>122 commits · 97% test coverage · 7 agent skills · 5 MCP servers · A2A orchestration<br/>Deployed on Oracle Cloud VM</td>
+    <td><b><a href="http://129.151.151.212:3000/dashboard">Personal AI Employee</a></b> — Platinum Tier<br/>122 commits · 97% test coverage · 7 agent skills · 5 MCP servers · A2A orchestration<br/>Deployed on Oracle Cloud VM</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📚 Hackathon 1</b></td>
+    <td><b><a href="https://github.com/Psqasim/physical-ai-humanoid-textbook">Physical AI & Humanoid Robotics Textbook</a></b><br/>Docusaurus + FastAPI + RAG with Qdrant + Neon PostgreSQL<br/>Multilingual support (English, Urdu, Japanese) · Voice input · AI chat</td>
   </tr>
   <tr>
     <td align="center"><b>🥈 Hackathon 2</b></td>
-    <td><b>TaskFlow</b> — Cloud-Native AI Task Manager<br/>Next.js + FastAPI + PostgreSQL + OpenAI Agents SDK + Kafka + Dapr<br/>Kubernetes deployment on Oracle Cloud</td>
+    <td><b><a href="https://hackathon-todo-orcin.vercel.app">TaskFlow</a></b> — Cloud-Native AI Task Manager<br/>Next.js + FastAPI + PostgreSQL + OpenAI Agents SDK + Kafka + Dapr<br/>Kubernetes deployment on Oracle Cloud</td>
   </tr>
   <tr>
     <td align="center"><b>🔥 Hackathon 5</b></td>
-    <td><b>Digital FTE Factory</b> — <i>Currently Building</i><br/>24/7 AI Customer Success agent for NexaFlow (B2B SaaS)<br/>Handles support tickets via Gmail + WhatsApp (Twilio) + Web Form<br/>MCP server with 7 FastMCP tools · SkillsInvoker with 5 skills · 101 tests</td>
+    <td><b><a href="https://crm-digital-fte-two.vercel.app/">Digital FTE Factory</a></b> — 24/7 AI Customer Success Agent<br/>Handles support tickets for NexaFlow (B2B SaaS) via Gmail + WhatsApp (Twilio) + Web Form<br/>MCP server with 7 FastMCP tools · SkillsInvoker with 5 skills · 101 tests</td>
   </tr>
 </table>
 
