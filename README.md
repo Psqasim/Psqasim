@@ -35,7 +35,7 @@ When I'm not coding, you'll find me optimizing cloud costs (free tiers are an ar
   </tr>
   <tr>
     <td align="center"><b>📚 Hackathon 1</b></td>
-    <td><b><a href="https://github.com/Psqasim/physical-ai-humanoid-textbook">Physical AI & Humanoid Robotics Textbook</a></b><br/>Docusaurus + FastAPI + RAG with Qdrant + Neon PostgreSQL<br/>Multilingual support (English, Urdu, Japanese) · Voice input · AI chat</td>
+    <td><b><a href="https://psqasim.github.io/physical-ai-humanoid-textbook">Physical AI & Humanoid Robotics Textbook</a></b><br/>Docusaurus + FastAPI + RAG with Qdrant + Neon PostgreSQL<br/>Multilingual support (English, Urdu, Japanese) · Voice input · AI chat</td>
   </tr>
   <tr>
     <td align="center"><b>🥈 Hackathon 2</b></td>
