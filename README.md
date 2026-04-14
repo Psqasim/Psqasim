@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Full Stack Developer · AI Agent Builder</b><br/>
-  Karachi, Pakistan 🇵🇰 · GIAIC Student & Hackathon Builder
+  Karachi, Pakistan 🇵🇰 ·
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** from Karachi who builds AI-powered systems that solve real problems. I'm currently enrolled in **GIAIC** and have been shipping projects through multiple hackathons — each one more complex than the last.
+I'm a Full Stack Developer from Karachi who builds AI-powered systems that solve real problems. I'm currently enrolled in GIAIC and have been shipping projects through multiple hackathons,  each one more complex than the last.
 
-I believe in shipping working software , not just prototypes. My projects have real test suites, CI pipelines, and production deployments. I follow a disciplined **Spec-Kit Plus** methodology: spec → plan → task breakdown → implementation, one phase at a time.
+I believe in shipping working software, not just prototypes. My projects have real test suites, CI pipelines, and production deployments. I follow a disciplined Spec-Kit Plus methodology: spec → plan → task breakdown → implementation, one phase at a time.
 
-When I'm not coding, you'll find me optimizing cloud costs (free tiers are an art form), wiring up solar inverters, or deep-diving into the latest AI agent frameworks.
+When I'm not coding, you'll find me optimizing cloud costs (free tiers are an art form) or deep-diving into the latest AI agent frameworks.
 
 ---
 
@@ -91,18 +91,11 @@ When I'm not coding, you'll find me optimizing cloud costs (free tiers are an ar
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Psqasim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psqasim&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Psqasim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Psqasim&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psqasim&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Psqasim&theme=tokyonight&no-frame=true&column=7" />
-</p>
+![](https://streak-stats.demolab.com/?user=Psqasim&theme=tokyonight&hide_border=true)
 
 ---
 
