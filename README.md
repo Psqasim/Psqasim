@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎨 ANIMATED WAVE HEADER                                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:38BDF8&height=220&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=A9B1D6&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:38BDF8&height=220&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=A9B1D6&descAlignY=55" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⌨️ TYPING ANIMATION                                            -->
@@ -178,7 +178,7 @@ motto: "Ship it. Test it. Ship it again."
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=2000&color=A9B1D6&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%22Ship+it.+Test+it.+Ship+it+again.%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Surpassing+your+limits+is+the+only+option.+%E2%80%94+Asta;Not+giving+up+is+my+magic.+%E2%80%94+Asta;Ship+it.+Test+it.+Ship+it+again.+%F0%9F%9A%80" alt="Quote" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:38BDF8&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7C3AED&height=150&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" />
