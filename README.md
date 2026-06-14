@@ -175,4 +175,10 @@ motto: "Ship it. Test it. Ship it again."
 <!-- 🌊 ANIMATED WAVE FOOTER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=2000&color=A9B1D6&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%22Ship+it.+Test+it.+Ship+it+again.%22" alt="Quote" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:38BDF8&height=120&section=footer" width="100%" />
