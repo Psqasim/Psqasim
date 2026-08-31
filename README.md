@@ -145,12 +145,12 @@ motto: "Ship it. Test it. Ship it again."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Psqasim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Psqasim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Psqasim&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psqasim&theme=tokyonight&hide_border=true&layout=compact&count_private=true&bg_color=0D1117&v=2" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Psqasim&theme=tokyonight&hide_border=true&layout=compact&count_private=true&bg_color=0D1117&v=2" alt="Top Languages" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -158,7 +158,7 @@ motto: "Ship it. Test it. Ship it again."
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Psqasim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A9B1D6&v=2" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Psqasim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A9B1D6&v=2" alt="Activity Graph" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
